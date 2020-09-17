@@ -16,9 +16,6 @@ import org.lwjgl.BufferUtils;
 import org.lwjgl.opengl.GL11;
 import org.lwjgl.opengl.GL12;
 
-import exodusclient.screenshotuploader.ImageHost;
-import exodusclient.screenshotuploader.ImgurHandler;
-import exodusclient.screenshotuploader.ScreenshotRunnable;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.client.renderer.OpenGlHelper;
