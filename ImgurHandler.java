@@ -1,4 +1,3 @@
-package exodusclient.screenshotuploader;
 
 import javax.imageio.*;
 import java.awt.image.*;
